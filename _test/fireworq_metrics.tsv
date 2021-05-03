@@ -1,0 +1,15 @@
+fireworq.jobs.elapsed.jobs_average_elapsed_time 0       1620055407
+fireworq.node.active_nodes      1       1620055407
+fireworq.node.active_nodes_percentage   100     1620055407
+fireworq.queue.workers.queue_idle_workers       20      1620055407
+fireworq.queue.workers.queue_running_workers    0       1620055407
+fireworq.queue.buffer.queue_outstanding_jobs    0       1620055407
+fireworq.jobs.jobs_failure      0       1620055407
+fireworq.jobs.jobs_success      0       1620055407
+fireworq.jobs.jobs_outstanding  0       1620055407
+fireworq.jobs.jobs_waiting      0       1620055407
+fireworq.jobs.events.jobs_events_pushed 0       1620055407
+fireworq.jobs.events.jobs_events_popped 0       1620055407
+fireworq.jobs.events.jobs_events_failed 0       1620055407
+fireworq.jobs.events.jobs_events_succeeded      0       1620055407
+fireworq.jobs.events.jobs_events_completed      0       1620055407
